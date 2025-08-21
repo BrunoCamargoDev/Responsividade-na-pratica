@@ -14,7 +14,7 @@ Landing page simples para testes de responsividade com HTML e CSS (fins de estud
 ## 🚀 Como usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_REPOSITORIO.git
+   git clone https://github.com/BrunoCamargoDev/Responsividade-na-pratica.git
    ```
 2. Abra o arquivo `index.html` no seu navegador.
 
