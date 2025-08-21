@@ -1,6 +1,5 @@
 # Landing Page Responsiva
 
-**Descrição:**  
 Landing page simples para testes de responsividade com HTML e CSS (fins de estudo).
 
 ---
@@ -9,13 +8,6 @@ Landing page simples para testes de responsividade com HTML e CSS (fins de estud
 - HTML5  
 - CSS3 
 - JavaScript (apenas função de alerta para links)
-
----
-
-## 🎨 Funcionalidades
-- Layout com **header**, **hero** e **footer**.  
-- Responsividade para diferentes tamanhos de tela.  
-- Navegação de links com alerta indicando que são apenas testes.  
 
 ---
 
