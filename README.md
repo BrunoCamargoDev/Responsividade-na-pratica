@@ -16,7 +16,7 @@ Landing page simples para testes de responsividade com HTML e CSS (fins de estud
    ```bash
    git clone https://github.com/BrunoCamargoDev/Responsividade-na-pratica.git
    ```
-2. Abra o arquivo `index.html` (dentro da pasta **arquivos**) no seu navegador.
+2. Abra o arquivo `index.html` (dentro da pasta **docs**) no seu navegador.
 
 ---
 
